@@ -1,0 +1,914 @@
+{
+  "@type": "old",
+  "Resource" : [
+    {
+      "name" : "---.html",
+      "size" : 1238904,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "---.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-aspect-1.1.1.html` expected.",
+          "Resource is never used"
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "1.1.1",
+        "playerId" : "verona-player-aspect",
+        "label" : "Verona Player Aspect"
+      }
+    },
+    {
+      "name" : "aufgabe.json",
+      "size" : 16408,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "AUFGABE.JSON",
+      "report" : [],
+      "info" : []
+    },
+    {
+      "name" : "Aufgabe1kurz.voud",
+      "size" : 73128,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "AUFGABE1KURZ.VOUD",
+      "report" : [],
+      "info" : []
+    },
+    {
+      "name" : "huge.htm",
+      "size" : 6264500,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "HUGE.HTM",
+      "report" : [],
+      "info" : []
+    },
+    {
+      "name" : "huge.php",
+      "size" : 580,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "HUGE.PHP",
+      "report" : {
+        "warning" : [
+          "Resource is never used"
+        ]
+      },
+      "info" : []
+    },
+    {
+      "name" : "iqb-player-aspect@1.25.0.html",
+      "size" : 2084256,
+      "modificationTime" : 1671012822,
+      "type" : "Resource",
+      "id" : "IQB-PLAYER-ASPECT@1.25.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-aspect-0.1.0.html` expected."
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "0.1.0",
+        "playerId" : "verona-player-aspect",
+        "label" : "Verona Player Aspect"
+      }
+    },
+    {
+      "name" : "IQB-PLAYER-SPEEDTEST@1.0.2.html",
+      "size" : 6695,
+      "modificationTime" : 1654756750,
+      "type" : "Resource",
+      "id" : "IQB-PLAYER-SPEEDTEST@1.0.2.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-speedtest-1.0.1.html` expected.",
+          "Resource is never used"
+        ],
+        "info" : [
+          "Verona-Version: 4.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "4.0.0",
+        "version" : "1.0.1",
+        "playerId" : "verona-player-speedtest",
+        "label" : "Verona Player Speedtest"
+      }
+    },
+    {
+      "name" : "L5ZV22141_001.voud",
+      "size" : 2424,
+      "modificationTime" : 1671011622,
+      "type" : "Resource",
+      "id" : "L5ZV22141_001.VOUD",
+      "report" : [],
+      "info" : []
+    },
+    {
+      "name" : "MT_D404.voud",
+      "size" : 4670157,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "MT_D404.VOUD",
+      "report" : [],
+      "info" : []
+    },
+    {
+      "name" : "REMOTESTUFF.HTML",
+      "size" : 94,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "REMOTESTUFF.HTML",
+      "report" : {
+        "warning" : [
+          "No Metadata Element",
+          "Resource is never used"
+        ]
+      },
+      "info" : []
+    },
+    {
+      "name" : "SAMPLE_UNITCONTENTS.HTM",
+      "size" : 13484,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "SAMPLE_UNITCONTENTS.HTM",
+      "report" : [],
+      "info" : []
+    },
+    {
+      "name" : "small.htm",
+      "size" : 6264500,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "SMALL.HTM",
+      "report" : [],
+      "info" : []
+    },
+    {
+      "name" : "spassti-player.html",
+      "size" : 2162,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "SPASSTI-PLAYER.HTML",
+      "report" : {
+        "warning" : [
+          "No Metadata Element",
+          "Resource is never used"
+        ]
+      },
+      "info" : []
+    },
+    {
+      "name" : "testcenter-8.1.2@11.5.7+4.0.0.tar",
+      "size" : 30720,
+      "modificationTime" : 1666702894,
+      "type" : "Resource",
+      "id" : "TESTCENTER-8.1.2@11.5.7+4.0.0.TAR",
+      "report" : {
+        "warning" : [
+          "Resource is never used"
+        ]
+      },
+      "info" : []
+    },
+    {
+      "name" : "verona-editor-aspect-1.34.0.html",
+      "size" : 2280716,
+      "modificationTime" : 1667479065,
+      "type" : "Resource",
+      "id" : "VERONA-EDITOR-ASPECT-1.34.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-editor-aspect-1.34.0.html` expected.",
+          "Resource is never used"
+        ],
+        "info" : [
+          "Verona-Version: 2.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "2.0.0",
+        "version" : "1.34.0",
+        "playerId" : "verona-player-editor-aspect",
+        "label" : "Verona Editor Aspect"
+      }
+    },
+    {
+      "name" : "verona-player-absurd-1.0.0.html",
+      "size" : 5549,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-PLAYER-ABSURD-1.0.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!"
+        ],
+        "info" : [
+          "Verona-Version: 4.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "4.0.0",
+        "version" : "1.0.1",
+        "playerId" : "verona-player-absurd",
+        "label" : "Verona Player absurd"
+      }
+    },
+    {
+      "name" : "verona-player-aspect-1.10.0.html",
+      "size" : 1374016,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-PLAYER-ASPECT-1.10.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-aspect-0.1.0.html` expected.",
+          "Resource is never used"
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "0.1.0",
+        "playerId" : "verona-player-aspect",
+        "label" : "Verona Player Aspect"
+      }
+    },
+    {
+      "name" : "verona-player-aspect-1.11.0.html",
+      "size" : 1375239,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-PLAYER-ASPECT-1.11.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-aspect-0.1.0.html` expected.",
+          "Resource is never used"
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "0.1.0",
+        "playerId" : "verona-player-aspect",
+        "label" : "Verona Player Aspect"
+      }
+    },
+    {
+      "name" : "verona-player-aspect-1.22.1.html",
+      "size" : 2060492,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-PLAYER-ASPECT-1.22.1.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-aspect-0.1.0.html` expected.",
+          "Resource is never used"
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "0.1.0",
+        "playerId" : "verona-player-aspect",
+        "label" : "Verona Player Aspect"
+      }
+    },
+    {
+      "name" : "verona-player-aspect-1.22.99999.html",
+      "size" : 2060492,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-PLAYER-ASPECT-1.22.99999.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-aspect-0.1.0.html` expected.",
+          "Resource is never used"
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "0.1.0",
+        "playerId" : "verona-player-aspect",
+        "label" : "Verona Player Aspect"
+      }
+    },
+    {
+      "name" : "verona-player-aspect-1.5.0.html",
+      "size" : 1304196,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-PLAYER-ASPECT-1.5.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Resource is never used"
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "1.5.0",
+        "playerId" : "verona-player-aspect",
+        "label" : "Verona Player Aspect"
+      }
+    },
+    {
+      "name" : "verona-player-aspect-1.6.0.html",
+      "size" : 1319081,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-PLAYER-ASPECT-1.6.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Resource is never used"
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "1.6.0",
+        "playerId" : "verona-player-aspect",
+        "label" : "Verona Player Aspect"
+      }
+    },
+    {
+      "name" : "verona-player-aspect-1.8.0.html",
+      "size" : 1356348,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-PLAYER-ASPECT-1.8.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-aspect-0.1.0.html` expected.",
+          "Resource is never used"
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "0.1.0",
+        "playerId" : "verona-player-aspect",
+        "label" : "Verona Player Aspect"
+      }
+    },
+    {
+      "name" : "verona-player-aspect-1.9.0.html",
+      "size" : 1358395,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-PLAYER-ASPECT-1.9.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-aspect-0.1.0.html` expected."
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "0.1.0",
+        "playerId" : "verona-player-aspect",
+        "label" : "Verona Player Aspect"
+      }
+    },
+    {
+      "name" : "verona-player-simple-4.0.0.html",
+      "size" : 34973,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-PLAYER-SIMPLE-4.0.0.HTML",
+      "report" : {
+        "info" : [
+          "Verona-Version: 4.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "4.0",
+        "playerId" : "verona-player-simple",
+        "description" : "This is a simple, dependency-less, vanilla-js-written, but full-featured unit player, mainly as showcase for developers and for software-testing. It does implement the Verona 4.0.0-Standard and can be used for units containing simple any content in HTML-format. Unit Description ist the <code>form-content as HTML. Just give some names to the form element, and the player does the rest. Use some special Ids for some special buttons.",
+        "label" : "Simple HTML Player"
+      }
+    },
+    {
+      "name" : "verona-simple-player-2.1.0.html",
+      "size" : 39660,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-SIMPLE-PLAYER-2.1.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-simple-2.1.0.html` expected."
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "2.1.0",
+        "playerId" : "verona-player-simple",
+        "label" : "Simple Verona Player 2"
+      }
+    },
+    {
+      "name" : "verona-simple-player-2.5.0.html",
+      "size" : 39664,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-SIMPLE-PLAYER-2.5.0.HTML",
+      "report" : {
+        "warning" : [
+          "Metadata in meta-tag is deprecated!",
+          "Non-Standard-Filename: `verona-player-simple-2.1.0.html` expected."
+        ],
+        "info" : [
+          "Verona-Version: 3.0.0"
+        ]
+      },
+      "info" : {
+        "veronaVersion" : "3.0.0",
+        "version" : "2.1.0",
+        "playerId" : "verona-player-simple",
+        "label" : "Simple Verona Player 2"
+      }
+    },
+    {
+      "name" : "verona-simple-player-3.html",
+      "size" : 0,
+      "modificationTime" : 1662463978,
+      "type" : "Resource",
+      "id" : "VERONA-SIMPLE-PLAYER-3.HTML",
+      "report" : {
+        "warning" : [
+          "Resource is never used"
+        ]
+      },
+      "info" : []
+    }
+  ],
+  "Unit" : [
+    {
+      "name" : "Aufgabe1kurz.xml",
+      "size" : 680,
+      "modificationTime" : 1662463978,
+      "type" : "Unit",
+      "id" : "AUFGABE1KURZ",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`9.2.0`). Current version (`13.2.2`) will be used instead.",
+          "Element `\/Unit\/Metadata\/Lastchange` is deprecated."
+        ]
+      },
+      "info" : {
+        "label" : "Audioaufgabe",
+        "totalSize" : 73808
+      }
+    },
+    {
+      "name" : "HUGE.xml",
+      "size" : 399,
+      "modificationTime" : 1662463978,
+      "type" : "Unit",
+      "id" : "HUGE3",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead.",
+          "Unit is never used"
+        ],
+        "error" : [
+          "Resource `test.img` not found"
+        ]
+      },
+      "info" : {
+        "description" : "HUGE",
+        "label" : "HUGE",
+        "totalSize" : 399
+      }
+    },
+    {
+      "name" : "HUGE2.xml",
+      "size" : 401,
+      "modificationTime" : 1662463978,
+      "type" : "Unit",
+      "id" : "HUGE2",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead.",
+          "Unit is never used"
+        ]
+      },
+      "info" : {
+        "description" : "HUGE2",
+        "label" : "HUGE2",
+        "totalSize" : 6264901
+      }
+    },
+    {
+      "name" : "L5ZV22141_001.xml",
+      "size" : 685,
+      "modificationTime" : 1671012839,
+      "type" : "Unit",
+      "id" : "L5ZV22141_001",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`9.2.0`). Current version (`13.2.2`) will be used instead.",
+          "Element `\/Unit\/Metadata\/Lastchange` is deprecated.",
+          "Unit is never used"
+        ]
+      },
+      "info" : {
+        "description" : "1-4.1\nZahl am leeren Zahlenstrahl verorten (einfach: H\u00e4lfte bzw. H\u00e4lfte der H\u00e4lfte suchen, keine Konstruktion von Hilfsstrichen notwendig)\n",
+        "label" : "Aufgabe",
+        "totalSize" : 3109
+      }
+    },
+    {
+      "name" : "MT_D404.xml",
+      "size" : 512,
+      "modificationTime" : 1662463978,
+      "type" : "Unit",
+      "id" : "MT_D404",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`9.2.0`). Current version (`13.2.2`) will be used instead.",
+          "Element `\/Unit\/Metadata\/Lastchange` is deprecated."
+        ]
+      },
+      "info" : {
+        "label" : "Wasserwusch",
+        "totalSize" : 4670669
+      }
+    },
+    {
+      "name" : "SMPU.xml",
+      "size" : 539,
+      "modificationTime" : 1662463978,
+      "type" : "Unit",
+      "id" : "SMPU",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "description" : "SMPU",
+        "label" : "SMPU",
+        "totalSize" : 539
+      }
+    },
+    {
+      "name" : "Unit.xml",
+      "size" : 1995,
+      "modificationTime" : 1670503117,
+      "type" : "Unit",
+      "id" : "UNIT.SAMPLE",
+      "report" : {
+        "warning" : [
+          "Version of XSD-schema missing. Current version (`13.2.2`) will be used instead.",
+          "Element `\/Unit\/Metadata\/Lastchange` is deprecated."
+        ],
+        "info" : [
+          "`1` attachment(s) requested."
+        ]
+      },
+      "info" : {
+        "description" : "This is a sample unit showing the possibilities of the sample player.",
+        "label" : "A sample unit",
+        "totalSize" : 15479
+      }
+    },
+    {
+      "name" : "Unit2.xml",
+      "size" : 1262,
+      "modificationTime" : 1666608951,
+      "type" : "Unit",
+      "id" : "UNIT.SAMPLE-2",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`12.4.4`). Current version (`13.2.2`) will be used instead.",
+          "Unit is never used"
+        ]
+      },
+      "info" : {
+        "description" : "This is an Unit",
+        "label" : "A sample unit",
+        "totalSize" : 1262
+      }
+    },
+    {
+      "name" : "UnitFOR4.xml",
+      "size" : 502,
+      "modificationTime" : 1662463978,
+      "type" : "Unit",
+      "id" : "UNIT.SAMPLEFOR4",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "description" : "This is a sample unit showing the possibilities of the sample player.",
+        "label" : "A sample unit",
+        "totalSize" : 13986
+      }
+    },
+    {
+      "name" : "absurd.xml",
+      "size" : 409,
+      "modificationTime" : 1662463978,
+      "type" : "Unit",
+      "id" : "ABSURD-UNIT",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "description" : "absurd-unit",
+        "label" : "absurd-unit",
+        "totalSize" : 409
+      }
+    },
+    {
+      "name" : "apsect_unit.xml",
+      "size" : 426,
+      "modificationTime" : 1662463978,
+      "type" : "Unit",
+      "id" : "ASPECT-UNIT",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "description" : "aspect-unit",
+        "label" : "aspect-unit",
+        "totalSize" : 16834
+      }
+    },
+    {
+      "name" : "huge.xml",
+      "size" : 398,
+      "modificationTime" : 1662463978,
+      "type" : "Unit",
+      "id" : "HUGE",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "description" : "huge",
+        "label" : "huge",
+        "totalSize" : 6264898
+      }
+    },
+    {
+      "name" : "middle.xml",
+      "size" : 405,
+      "modificationTime" : 1662463978,
+      "type" : "Unit",
+      "id" : "MIDDLE",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead.",
+          "Unit is never used"
+        ]
+      },
+      "info" : {
+        "description" : "sm\u00e6ll",
+        "label" : "sm\u00e6ll",
+        "totalSize" : 6264905
+      }
+    },
+    {
+      "name" : "small.xml",
+      "size" : 402,
+      "modificationTime" : 1673356581,
+      "type" : "Unit",
+      "id" : "SMALL",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "description" : "small",
+        "label" : "small",
+        "totalSize" : 6264902
+      }
+    },
+    {
+      "name" : "some.xml",
+      "size" : 388,
+      "modificationTime" : 1673356638,
+      "type" : "Unit",
+      "id" : "SOME",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead.",
+          "Unit is never used"
+        ]
+      },
+      "info" : {
+        "description" : "some",
+        "label" : "some",
+        "totalSize" : 388
+      }
+    }
+  ],
+  "Booklet" : [
+    {
+      "name" : "Booklet.xml",
+      "size" : 2081,
+      "modificationTime" : 1662463978,
+      "type" : "Booklet",
+      "id" : "BOOKLET.SAMPLE-1",
+      "report" : {
+        "warning" : [
+          "Version of XSD-schema missing. Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "description" : "Includes Vampires",
+        "label" : "1. A Very Dark Booklet ",
+        "totalSize" : 12697493
+      }
+    },
+    {
+      "name" : "Booklet2.xml",
+      "size" : 1758,
+      "modificationTime" : 1662463978,
+      "type" : "Booklet",
+      "id" : "BOOKLET.SAMPLE-2",
+      "report" : {
+        "warning" : [
+          "Version of XSD-schema missing. Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "label" : "2. Recursive to Death",
+        "totalSize" : 6184998
+      }
+    },
+    {
+      "name" : "Booklet3.xml",
+      "size" : 1133,
+      "modificationTime" : 1662463978,
+      "type" : "Booklet",
+      "id" : "BOOKLET.SAMPLE-3",
+      "report" : {
+        "warning" : [
+          "Version of XSD-schema missing. Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "label" : "3. Two Blocks with restrictions",
+        "totalSize" : 42953
+      }
+    },
+    {
+      "name" : "Booklet4.xml",
+      "size" : 3603,
+      "modificationTime" : 1671618712,
+      "type" : "Booklet",
+      "id" : "BOOKLET.SAMPLE-4",
+      "report" : {
+        "warning" : [
+          "Version of XSD-schema missing. Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "label" : "4. With HUGE unit inside!",
+        "totalSize" : 131692841
+      }
+    },
+    {
+      "name" : "Minimal.xml",
+      "size" : 743,
+      "modificationTime" : 1666608367,
+      "type" : "Booklet",
+      "id" : "MINIMAL",
+      "report" : {
+        "warning" : [
+          "Version of XSD-schema missing. Current version (`13.2.2`) will be used instead.",
+          "Booklet is never used"
+        ]
+      },
+      "info" : {
+        "label" : "Minimal",
+        "totalSize" : 55882
+      }
+    },
+    {
+      "name" : "joachim.xml",
+      "size" : 757,
+      "modificationTime" : 1666775744,
+      "type" : "Booklet",
+      "id" : "ACHIM-TEST4",
+      "report" : {
+        "warning" : [
+          "Version of XSD-schema missing. Current version (`13.2.2`) will be used instead.",
+          "Booklet is never used"
+        ]
+      },
+      "info" : {
+        "label" : "Test Booklet",
+        "totalSize" : 1432960
+      }
+    },
+    {
+      "name" : "timed.xml",
+      "size" : 1148,
+      "modificationTime" : 1667814313,
+      "type" : "Booklet",
+      "id" : "TIMED",
+      "report" : {
+        "warning" : [
+          "Version of XSD-schema missing. Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "label" : "5. Timer problem",
+        "totalSize" : 12625755
+      }
+    }
+  ],
+  "Testtakers" : [
+    {
+      "name" : "Testtakers.xml",
+      "size" : 3135,
+      "modificationTime" : 1669716197,
+      "type" : "Testtakers",
+      "id" : "TESTTAKERS.XML",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "description" : "This file contains some logins for testing and works a a sample for developers.",
+        "testtakers" : 16
+      }
+    }
+  ],
+  "SysCheck" : [
+    {
+      "name" : "SysCheck.xml",
+      "size" : 519,
+      "modificationTime" : 1662463978,
+      "type" : "SysCheck",
+      "id" : "SYSCHECK.SAMPLEC",
+      "report" : {
+        "warning" : [
+          "Outdated or wrong version of XSD-schema (`11.5.5`). Current version (`13.2.2`) will be used instead."
+        ]
+      },
+      "info" : {
+        "description" : "An example SysCheck definition with long description",
+        "label" : "An example SysCheck definition!!!!"
+      }
+    }
+  ]
+}
