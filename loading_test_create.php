@@ -2,7 +2,7 @@
 
 $WORKSPACE_ID = 91;
 $BOOKLET_FILE_NAME = "2022-01-13_Booklet V8 Testheft A Englisch.xml";
-$TC_API_URL = "http://localhost/testcenter/backend";
+$TC_API_URL = "http://debian1ph.iqb.hu-berlin.de/testcenter/backend";
 $USER_NAME = "loading_test";
 $PASSWORD = "";
 
@@ -10,7 +10,7 @@ $PASSWORD = "";
 
 
 define('ROOT_DIR', realpath(__DIR__ . '/..'));
-const DATA_DIR = ROOT_DIR . '/data';
+$DATA_DIR = ROOT_DIR . '/data';
 require_once(ROOT_DIR . '/backend/autoload.php');
 ob_start();
 
@@ -19,17 +19,18 @@ ob_start();
 try {
   $unitId2FileName = [];
 
-  foreach (scandir("ws_$WORKSPACE_ID/Unit/") as $unitFile) {
-    if (!is_file("ws_$WORKSPACE_ID/Unit/$unitFile")) continue;
-    $unit = new SimpleXMLElement(file_get_contents("ws_$WORKSPACE_ID/Unit/$unitFile"));
+  foreach (scandir("$DATA_DIR/ws_$WORKSPACE_ID/Unit/") as $unitFile) {
+    $filePath = "$DATA_DIR/ws_$WORKSPACE_ID/Unit/$unitFile";
+    if (!is_file($filePath)) continue;
+    $unit = new SimpleXMLElement(file_get_contents($filePath));
     $unitId = strtoupper((string) $unit->xpath('/Unit/Metadata/Id')[0]);
-    $unitId2FileName[$unitId] = "ws_$WORKSPACE_ID/Unit/$unitFile";
+    $unitId2FileName[$unitId] = $filePath;
   }
 
   $players = [];
   $resources = [];
 
-  $booklet = new SimpleXMLElement(file_get_contents("ws_$WORKSPACE_ID/Booklet/$BOOKLET_FILE_NAME"));
+  $booklet = new SimpleXMLElement(file_get_contents("$DATA_DIR/ws_$WORKSPACE_ID/Booklet/$BOOKLET_FILE_NAME"));
   $units = ($booklet->xpath('//Unit') ?? []);
   $bookletId = (string) $booklet->Metadata->Id;
 
@@ -79,7 +80,7 @@ TEMPLATE;
     echo <<<TEMPLATE
   
 curl -o /dev/null --location --silent --fail --show-error \
--w "CALL | \$AUTH_TOKEN | unit | $unitId | %{http_code}\\n" \
+-w "CALL | \$AUTH_TOKEN | unit | $unitId | %{http_code} | $(date +%s%N) \\n" \
 --header  "AuthToken: ""\$AUTH_TOKEN" \
 --request GET "$TC_API_URL/test/\$TEST_NR/unit/$unitId/alias/$alias"
 
@@ -99,7 +100,7 @@ TEMPLATE;
     echo <<<TEMPLATE
   
 curl -o /dev/null --location --silent --fail --show-error \
--w "CALL | \$AUTH_TOKEN | player | $playerId | %{http_code}\\n" \
+-w "CALL | \$AUTH_TOKEN | player | $playerId | %{http_code} | $(date +%s%N) \\n" \
 --header  "AuthToken: ""\$AUTH_TOKEN" \
 --request GET "$TC_API_URL/test/\$TEST_NR/resource/$playerId?v=1"
 
@@ -112,7 +113,7 @@ TEMPLATE;
     echo <<<TEMPLATE
   
 curl -o /dev/null --location --silent --fail --show-error \
--w "CALL | \$AUTH_TOKEN | resource | $resource | %{http_code}\\n" \
+-w "CALL | \$AUTH_TOKEN | resource | $resource | %{http_code} | $(date +%s%N) \\n" \
 --header  "AuthToken: ""\$AUTH_TOKEN" \
 --request GET "$TC_API_URL/test/\$TEST_NR/resource/$resource?v=f"
 
