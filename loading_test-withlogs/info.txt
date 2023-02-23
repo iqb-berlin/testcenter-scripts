@@ -13,3 +13,4 @@ WORKING_DIR=loading_test-withlogs
 AUDIT_MODE=docker
 MODE=remote
 REPORT_FREQUENCY=1
+Duration total = 11543105041

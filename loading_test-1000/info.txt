@@ -7,9 +7,14 @@ TC_PASSWORD=""
 REMOTE_USER="paf"
 REMOTE_URL="loadingtestattacker.iqb.hu-berlin.de"
 REMOTE_DIR="~"
-RUNS=2
-RUNS_AT_ONCE=2
-WORKING_DIR=loading_test-withlogs
+RUNS=1000
+RUNS_AT_ONCE=1000
+WORKING_DIR=loading_test-1000
 AUDIT_MODE=docker
 MODE=remote
 REPORT_FREQUENCY=1
+Duration total = 1876421167024
+
+
+Bemerkung:
+Der Angreifer konnte nicht mehr als 250 gleichzeitig starten

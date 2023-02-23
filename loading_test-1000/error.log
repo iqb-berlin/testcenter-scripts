@@ -1,0 +1,4 @@
+parallel: Warning: Only enough file handles to run 252 jobs in parallel.
+parallel: Warning: Running 'parallel -j0 -N 252 --pipe parallel -j0' or
+parallel: Warning: raising ulimit -n or /etc/security/limits.conf may help.
+client_loop: send disconnect: Broken pipe
