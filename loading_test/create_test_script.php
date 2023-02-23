@@ -39,7 +39,8 @@ try {
   $players = [];
   $resources = [];
 
-  $booklet = new SimpleXMLElement(file_get_contents("$DATA_DIR/ws_$E->TC_WORKSPACE_ID/Booklet/$E->TC_BOOKLET_FILE_NAME"));
+  $bookletFileContent = file_get_contents("$DATA_DIR/ws_$E->TC_WORKSPACE_ID/Booklet/$E->TC_BOOKLET_FILE_NAME");
+  $booklet = new SimpleXMLElement($bookletFileContent);
   $units = ($booklet->xpath('//Unit') ?? []);
   $bookletId = (string) $booklet->Metadata->Id;
 
@@ -142,4 +143,4 @@ TEMPLATE;
   exit(1);
 }
 
-file_put_contents("$E->WORKING_DIR/script.sh", ob_get_clean());
+ob_end_flush();

@@ -12,7 +12,9 @@ echo "Create Working Dir: $WORKING_DIR"
 bash ./loading_test/create_working_dir.sh
 
 echo "Create Test Script"
-php loading_test/create_test_script.php > "$WORKING_DIR/script.sh"
+bash ./loading_test/create_test_script.sh
+
+exit
 
 echo "Write meta"
 bash loading_test/write_meta.sh

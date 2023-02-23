@@ -10,7 +10,7 @@ echo "Write meta"
 bash loading_test/write_meta.sh
 
 echo "Create Test Script"
-php loading_test/create_test_script.php > "$WORKING_DIR/script.sh"
+bash ./loading_test/create_test_script.sh
 
 echo "Run script with audit"
 ACTION="loading_test/run_parallel.sh" bash loading_test/audit_local.sh
