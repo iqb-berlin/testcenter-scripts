@@ -79,6 +79,7 @@ curl --location --silent --fail --show-error \
 --data-raw '{"bookletName":"$bookletId"}'
 )
 
+
 TEMPLATE;
 
   echo "\n # Units (" . count($units) . ')';

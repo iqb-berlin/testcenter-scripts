@@ -14,13 +14,11 @@ bash ./loading_test/create_working_dir.sh
 echo "Create Test Script"
 bash ./loading_test/create_test_script.sh
 
-exit
-
 echo "Write meta"
 bash loading_test/write_meta.sh
 
 echo "Upload script"
-ssh "$REMOTE_ADDRESS" "rm -R $REMOTE_DIR/loading_test | true && mkdir $REMOTE_DIR/loading_test"
+ssh "$REMOTE_ADDRESS" "rm -R $REMOTE_DIR/loading_test 2> /dev/null | true && mkdir $REMOTE_DIR/loading_test"
 scp -q ./loading_test/run_parallel.sh "$REMOTE_ADDRESS:$REMOTE_DIR/loading_test"
 scp -q ./loading_test/create_working_dir.sh "$REMOTE_ADDRESS:$REMOTE_DIR/loading_test"
 scp -q ./loading_test/loading_test.env "$REMOTE_ADDRESS:$REMOTE_DIR/loading_test"

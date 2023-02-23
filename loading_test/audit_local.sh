@@ -14,7 +14,7 @@ START_TS=$(date +"%s%N")
 if [[ $AUDIT_MODE == 'local' ]]; then
   watch -n"$REPORT_FREQUENCY" bash ./loading_test/mimic_docker_stats.sh &
 elif [[ $AUDIT_MODE == 'docker' ]]; then
-  docker stats &
+  docker stats >> "$WORKING_DIR/stats.log" &
 else
   echo "Unknown mode: $MODE"
   exit 1

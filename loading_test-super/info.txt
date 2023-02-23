@@ -13,3 +13,4 @@ WORKING_DIR=loading_test-super
 AUDIT_MODE=docker
 MODE=remote
 REPORT_FREQUENCY=0.5
+Duration total = 17016365973
