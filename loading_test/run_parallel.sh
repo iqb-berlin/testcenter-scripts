@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source loading_test.env
+source ./loading_test/loading_test.env
 
 SEQ=($(seq $RUNS))
 

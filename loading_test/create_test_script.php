@@ -9,7 +9,7 @@ try {
     'TC_USER_NAME' => '',
     'TC_PASSWORD' => '',
   ];
-  $lines = file('../loading_test.env', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+  $lines = file('loading_test/loading_test.env', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
   foreach ($lines as $line) {
     if (str_starts_with(trim($line), '#')) continue;
 
@@ -28,8 +28,8 @@ try {
 
   $unitId2FileName = [];
 
-  foreach (scandir("$E->TC_SOURCE/$DATA_DIR/ws_$E->WORKSPACE_ID/Unit/") as $unitFile) {
-    $filePath = "$DATA_DIR/ws_$E->WORKSPACE_ID/Unit/$unitFile";
+  foreach (scandir("$DATA_DIR/ws_$E->TC_WORKSPACE_ID/Unit/") as $unitFile) {
+    $filePath = "$DATA_DIR/ws_$E->TC_WORKSPACE_ID/Unit/$unitFile";
     if (!is_file($filePath)) continue;
     $unit = new SimpleXMLElement(file_get_contents($filePath));
     $unitId = strtoupper((string) $unit->xpath('/Unit/Metadata/Id')[0]);
@@ -39,7 +39,7 @@ try {
   $players = [];
   $resources = [];
 
-  $booklet = new SimpleXMLElement(file_get_contents("$DATA_DIR/ws_$E->WORKSPACE_ID/Booklet/$E->BOOKLET_FILE_NAME"));
+  $booklet = new SimpleXMLElement(file_get_contents("$DATA_DIR/ws_$E->TC_WORKSPACE_ID/Booklet/$E->TC_BOOKLET_FILE_NAME"));
   $units = ($booklet->xpath('//Unit') ?? []);
   $bookletId = (string) $booklet->Metadata->Id;
 
@@ -48,18 +48,18 @@ try {
 
 # ### Loading test ###
  
-# \WORKSPACE_ID = $E->WORKSPACE_ID;
-# \BOOKLET_FILE_NAME = $E->BOOKLET_FILE_NAME;
+# \WORKSPACE_ID = $E->TC_WORKSPACE_ID;
+# \BOOKLET_FILE_NAME = $E->TC_BOOKLET_FILE_NAME;
 # \TC_API_URL = $E->TC_API_URL;
-# \USER_NAME = $E->USER_NAME;
-# \PASSWORD = $E->PASSWORD;
+# \USER_NAME = $E->TC_USER_NAME;
+# \PASSWORD = $E->TC_PASSWORD;
 
 START=$(date +%s%N)
 
 LOGIN_RESULT=$(
 curl --location --silent --show-error \
 --request PUT "$E->TC_API_URL/session/login" \
---data-raw '{"name":"$E->USER_NAME","password":"$E->PASSWORD"}'
+--data-raw '{"name":"$E->TC_USER_NAME","password":"$E->TC_PASSWORD"}'
 )
 
 AUTH_TOKEN=$(jq -r '.token' <<< "\$LOGIN_RESULT")
@@ -142,4 +142,4 @@ TEMPLATE;
   exit(1);
 }
 
-file_put_contents('loading_test/script.sh', ob_get_clean());
+file_put_contents("$E->WORKING_DIR/script.sh", ob_get_clean());

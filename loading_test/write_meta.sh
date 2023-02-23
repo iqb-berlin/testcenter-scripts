@@ -1,5 +1,5 @@
 #!/bin/bash
 
-source loading_test.env
+source ./loading_test/loading_test.env
 
-cat loading_test/loading_test.env > info.txt
+cat loading_test/loading_test.env > "$WORKING_DIR/info.txt"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source loading_test.env
+source ./loading_test/loading_test.env
 
 if [[ ! -v ACTION ]]; then
   echo "ACTION not set"
@@ -24,4 +24,4 @@ END_TS=$(date +"%s%N")
 DURATION="$((END_TS-START_TS))"
 
 # write time
-echo "Duration total = $DURATION" > "$WORKING_DIR/info.txt"
+echo "Duration total = $DURATION" >> "$WORKING_DIR/info.txt"

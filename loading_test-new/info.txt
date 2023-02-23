@@ -13,3 +13,4 @@ WORKING_DIR=loading_test-new
 AUDIT_MODE=local
 MODE=remote
 REPORT_FREQUENCY=0.5
+Duration total = 63766367352
