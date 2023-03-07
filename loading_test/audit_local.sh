@@ -14,7 +14,7 @@ START_TS=$(date +"%s%N")
 if [[ $AUDIT_MODE == 'local' ]]; then
   watch -n"$REPORT_FREQUENCY" bash ./loading_test/mimic_docker_stats.sh &
 elif [[ $AUDIT_MODE == 'docker' ]]; then
-  docker stats >> "$WORKING_DIR/stats.log" &
+  watch -n"$REPORT_FREQUENCY" bash ./loading_test/docker_stats.sh &
   docker logs -f --tail 0 testcenter-backend >> "$WORKING_DIR/backend.log" &
   docker logs -f --tail 0 testcenter-traefik >> "$WORKING_DIR/traefik.log" &
   docker logs -f --tail 0 testcenter-db >> "$WORKING_DIR/db.log" &
