@@ -1,0 +1,17 @@
+TC_API_URL="https://testcenter.iqb.hu-berlin.de/api"
+TC_SRC=/var/www/
+TC_WORKSPACE_ID=7
+TC_BOOKLET_FILE_NAME="2022-01-13_Booklet V8 Testheft A Englisch.xml"
+TC_USER_NAME="lasttest.gross01.mit"
+TC_PASSWORD="last"
+REMOTE_USER="paf"
+REMOTE_URL="172.28.36.42"
+REMOTE_DIR="~"
+RUNS=500
+RUNS_AT_ONCE=500
+WORKING_DIR=results-loadingTest-vmVSsmall-500
+AUDIT_MODE=docker
+MODE=remote
+REPORT_FREQUENCY=5
+ULIMIT=2000
+Duration total = 134433058656

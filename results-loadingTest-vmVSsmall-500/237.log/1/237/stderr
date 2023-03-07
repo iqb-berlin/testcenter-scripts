@@ -1,0 +1,6 @@
+results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libnettle.so.8: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system

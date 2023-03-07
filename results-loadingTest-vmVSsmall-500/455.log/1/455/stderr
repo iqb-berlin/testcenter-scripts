@@ -1,0 +1,8 @@
+parallel: This should not happen. You have found a bug.
+Please contact <parallel@gnu.org> and include:
+* The version number: 20161222
+* The bugid: open3-GLOB(0x55e2686412a8) bash results-loadingTest-vmVSsmall-500/script.sh 455
+* The command line being run
+* The files being read (put the files on a webserver if they are big)
+
+If you get the error on smaller/fewer files, please include those instead.

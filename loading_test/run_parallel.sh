@@ -2,7 +2,8 @@
 
 source ./loading_test/loading_test.env
 
-ulimit -u $RUNS
+ulimit -u $ULIMIT
+ulimit -n $ULIMIT
 
 SEQ=($(seq $RUNS))
 

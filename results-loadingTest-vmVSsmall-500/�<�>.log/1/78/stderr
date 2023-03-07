@@ -1,0 +1,5 @@
+results-loadingTest-vmVSsmall-500/script.sh: line 19: cannot create temp file for here-document: Too many open files in system
+results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libk5crypto.so.3: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500/script.sh: line 42: /usr/bin/date: Too many open files in system
