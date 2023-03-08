@@ -1,0 +1,2 @@
+curl: error while loading shared libraries: liblber-2.4.so.2: cannot open shared object file: Error 23
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de

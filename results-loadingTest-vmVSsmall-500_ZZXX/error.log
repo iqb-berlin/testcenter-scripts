@@ -1,0 +1,738 @@
+
+102)
+curl: error while loading shared libraries: libsasl2.so.2: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libgcrypt.so.20: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 46: /usr/bin/curl: Too many open files in system
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libkrb5support.so.0: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+curl: (6) getaddrinfo() thread failed to start
+
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libgcrypt.so.20: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libgmp.so.10: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libdl.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libhogweed.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 131: /usr/bin/curl: Too many open files in system
+curl: error while loading shared libraries: libnettle.so.8: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+
+110)
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libsasl2.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+
+112)
+curl: (7) Couldn't connect to server
+curl: error while loading shared libraries: libsasl2.so.2: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 46: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libssh2.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnettle.so.8: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 61: /usr/bin/date: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 66: /usr/bin/date: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 71: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 76: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 91: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 91: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 101: /usr/bin/date: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 106: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libffi.so.7: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 111: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 116: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 121: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 131: /usr/bin/curl: Too many open files in system
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libkeyutils.so.1: cannot open shared object file: Error 23
+
+113)
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libpsl.so.5: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 46: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (7) Couldn't connect to server
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libgmp.so.10: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libldap_r-2.4.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 76: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 86: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libgpg-error.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 109: 317549 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESLINST-GIF | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESLINST-GIF/alias/ESLINST-GIF"
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 114: 317558 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ER554 | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ER554/alias/ER554"
+curl: (22) The requested URL returned error: 405 
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 121: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 121: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 126: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 131: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 136: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 141: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 146: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 151: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 156: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 161: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 166: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 171: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 176: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 181: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 187: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 193: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libgssapi_krb5.so.2: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcrypto.so.1.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libkrb5support.so.0: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+
+114)
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 13: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+
+115)
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 13: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libkrb5support.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libidn2.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 54: 317445 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESBSPMC-GIF | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESBSPMC-GIF/alias/ESBSPMC-GIF"
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libk5crypto.so.3: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libkrb5.so.3: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libdl.so.2: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 86: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libresolv.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 96: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 96: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libffi.so.7: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libkrb5.so.3: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 116: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 116: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 121: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 126: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 131: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 131: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 139: 317545 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | EL617 | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/EL617/alias/EL617"
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 141: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 141: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 146: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 154: 317556 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESHAUDIOENDE | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESHAUDIOENDE/alias/ESHAUDIOENDE"
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 156: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 166: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 171: /usr/bin/date: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 190: 317590 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | player | IQB-PLAYER-ASPECT-1.15 | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/resource/IQB-PLAYER-ASPECT-1.15?v=1"
+curl: error while loading shared libraries: libidn2.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 213: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 218: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 223: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 228: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 233: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 238: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 243: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 248: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 253: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 258: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 263: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 276: 317648 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | resource | ER533.voud | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/resource/ER533.voud?v=f"
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 278: /usr/bin/date: Too many open files in system
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 288: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 293: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 298: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 318: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 323: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libkeyutils.so.1: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 338: 1678292623092422320 - : syntax error: operand expected (error token is "- ")
+
+116)
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 20: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcom_err.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libgnutls.so.30: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libsasl2.so.2: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcrypto.so.1.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libsasl2.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 76: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libkrb5.so.3: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 84: 317535 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | EL614 | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/EL614/alias/EL614"
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 86: /usr/bin/date: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 96: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 96: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libidn2.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 121: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 131: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 131: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 136: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 141: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 151: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libdl.so.2: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 161: /usr/bin/curl: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 171: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libnettle.so.8: cannot open shared object file: Error 23
+curl: (22) The requested URL returned error: 405 
+curl: error while loading shared libraries: libgpg-error.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+
+117)
+/usr/bin/bash: line 1: /usr/bin/bash: Too many open files in system
+
+119)
+/usr/bin/bash: error while loading shared libraries: libtinfo.so.6: cannot open shared object file: Error 23
+
+11)
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 41: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libkrb5support.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+
+13)
+curl: (7) Couldn't connect to server
+
+14)
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+curl: (6) getaddrinfo() thread failed to start
+
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 49: 317786 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESLHSTART | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESLHSTART/alias/ESLHSTART"
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+curl: error while loading shared libraries: libhogweed.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libgssapi_krb5.so.2: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libgssapi_krb5.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 79: 317868 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESHINST | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESHINST/alias/ESHINST"
+curl: error while loading shared libraries: liblber-2.4.so.2: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 101: /usr/bin/curl: Too many open files in system
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 121: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 136: /usr/bin/curl: Too many open files in system
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 151: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 156: /usr/bin/curl: Too many open files in system
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 171: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 181: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 193: /usr/bin/curl: Too many open files in system
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 213: /usr/bin/curl: Too many open files in system
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 228: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 238: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 268: /usr/bin/curl: Too many open files in system
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libssh2.so.1: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 313: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libidn2.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 323: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 328: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 333: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 337: /usr/bin/date: Too many open files in system
+
+2)
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+curl: (77) error setting certificate verify locations:  CAfile: /etc/ssl/certs/ca-certificates.crt CApath: /etc/ssl/certs
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+curl: error while loading shared libraries: libgnutls.so.30: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 66: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 79: 317833 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESHINST | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESHINST/alias/ESHINST"
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 84: 317844 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | EL614 | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/EL614/alias/EL614"
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 86: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libdl.so.2: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 166: /usr/bin/curl: Too many open files in system
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 176: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 218: /usr/bin/curl: Too many open files in system
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+
+3)
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libgmp.so.10: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 46: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 51: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 64: 317788 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESLBSPMM-DAD-GIF | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESLBSPMM-DAD-GIF/alias/ESLBSPMM-DAD-GIF"
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 66: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 71: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 79: 317828 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESHINST | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESHINST/alias/ESHINST"
+curl: error while loading shared libraries: libresolv.so.2: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libk5crypto.so.3: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 131: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 141: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libidn2.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 151: /usr/bin/curl: Too many open files in system
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 166: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libidn2.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 181: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnghttp2.so.14: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libdl.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcom_err.so.2: cannot open shared object file: Error 23
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libsasl2.so.2: cannot open shared object file: Error 23
+
+4)
+curl: error while loading shared libraries: liblber-2.4.so.2: cannot open shared object file: Error 23
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+
+5)
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 41: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 46: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 51: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 56: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 66: /usr/bin/date: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 71: /usr/bin/date: Too many open files in system
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 76: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 76: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 91: /usr/bin/curl: Too many open files in system
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 99: 317707 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | EL595 | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/EL595/alias/EL595"
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libkeyutils.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libldap_r-2.4.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (22) The requested URL returned error: 405 
+curl: error while loading shared libraries: libk5crypto.so.3: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libpsl.so.5: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libhogweed.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libssl.so.1.1: cannot open shared object file: Error 23
+
+6)
+curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 51: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 51: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 71: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 76: /usr/bin/curl: Too many open files in system
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 96: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 101: /usr/bin/curl: Too many open files in system
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 121: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 126: /usr/bin/curl: Too many open files in system
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 151: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 156: /usr/bin/curl: Too many open files in system
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 176: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 181: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libtasn1.so.6: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: libkeyutils.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libnettle.so.8: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libssl.so.1.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libhogweed.so.6: cannot open shared object file: Error 23
+
+8)
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 41: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libsasl2.so.2: cannot open shared object file: Error 23
+curl: error while loading shared libraries: liblber-2.4.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 56: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libbrotlicommon.so.1: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 66: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 71: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 81: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 81: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 89: 317540 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | EL643 | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/EL643/alias/EL643"
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 91: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 91: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 96: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 101: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+date: error while loading shared libraries: libc.so.6: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 116: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 124: 317604 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ER533 | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ER533/alias/ER533"
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libssh2.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 131: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libgpg-error.so.0: cannot open shared object file: Error 23
+curl: (6) getaddrinfo() thread failed to start
+
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libbrotlicommon.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 161: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
+curl: error while loading shared libraries: liblber-2.4.so.2: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (22) The requested URL returned error: 405 
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 193: /usr/bin/date: Too many open files in system
