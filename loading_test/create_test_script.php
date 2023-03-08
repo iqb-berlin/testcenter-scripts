@@ -55,6 +55,8 @@ try {
 # \USER_NAME = $E->TC_USER_NAME;
 # \PASSWORD = $E->TC_PASSWORD;
 
+ulimit -n `ulimit -Hn`
+
 START=$(date +%s%N)
 
 LOGIN_RESULT=$(
