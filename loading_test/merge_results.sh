@@ -14,6 +14,6 @@ for d in "$WORKING_DIR"/*.log/*/*; do
         echo ")" >> "$WORKING_DIR/error.log"
         cat "$d/stderr" >> "$WORKING_DIR/error.log"
     fi;
-
-    rm -R $d
 done
+
+rm -R "$WORKING_DIR"/*.log
