@@ -1,14 +1,15 @@
 #!/bin/bash
 
-# source ./loading_test/loading_test.env
+source ./loading_test/loading_test.env
 
 for d in "$WORKING_DIR"/*.log/*/*; do
 
-    grep "CALL" < "$d/stdout" >> "$WORKING_DIR/calls.csv"
-    grep "FINAL" < "$d/stdout" >> "$WORKING_DIR/times.csv"
+    if [ -f "$d/stderr" ]; then
+        grep "CALL" < "$d/stdout" >> "$WORKING_DIR/calls.csv"
+        grep "FINAL" < "$d/stdout" >> "$WORKING_DIR/times.csv"
+    fi
 
     if [ -s "$d/stderr" ]; then
-
         echo "" >> "$WORKING_DIR/error.log"
         cat "$d/seq" >> "$WORKING_DIR/error.log"
         echo ")" >> "$WORKING_DIR/error.log"
