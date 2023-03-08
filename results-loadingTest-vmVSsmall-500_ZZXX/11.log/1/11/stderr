@@ -1,0 +1,8 @@
+curl: (6) getaddrinfo() thread failed to start
+
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 41: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libkrb5support.so.0: cannot open shared object file: Error 23
+curl: error while loading shared libraries: librtmp.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de
