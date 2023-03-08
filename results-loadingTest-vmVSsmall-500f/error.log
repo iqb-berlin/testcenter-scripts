@@ -1,0 +1,3 @@
+parallel: Warning: No more file handles. 
+parallel: Warning: Raising ulimit -n or /etc/security/limits.conf may help.
+parallel: Error: Cannot write to `results-loadingTest-vmVSsmall-500f/346.log/1/346/seq'.

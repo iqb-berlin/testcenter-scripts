@@ -1,0 +1,5 @@
+parallel: Warning: Only enough file handles to run 496 jobs in parallel.
+parallel: Warning: Running 'parallel -j0 -N 496 --pipe parallel -j0' or
+parallel: Warning: raising ulimit -n or /etc/security/limits.conf may help.
+parallel: Warning: No more file handles. 
+parallel: Warning: Raising ulimit -n or /etc/security/limits.conf may help.

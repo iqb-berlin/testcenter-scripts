@@ -1,0 +1,15 @@
+results-loadingTest-vmVSsmall-500f/script.sh: line 18: /usr/bin/curl: Too many open files in system
+results-loadingTest-vmVSsmall-500f/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500f/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500f/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500f/script.sh: line 42: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23
+curl: error while loading shared libraries: libz.so.1: cannot open shared object file: Error 23

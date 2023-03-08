@@ -1,0 +1,3 @@
+curl: error while loading shared libraries: libunistring.so.2: cannot open shared object file: Error 23
+FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
+results-loadingTest-vmVSsmall-500b/script.sh: line 40: 111741 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESINFOLAENDER | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESINFOLAENDER/alias/ESINFOLAENDER"

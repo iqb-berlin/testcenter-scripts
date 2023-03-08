@@ -1,0 +1,8 @@
+results-loadingTest-vmVSsmall-500c/script.sh: line 11: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500c/script.sh: line 42: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23

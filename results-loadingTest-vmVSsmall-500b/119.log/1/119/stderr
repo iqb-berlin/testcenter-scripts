@@ -1,0 +1,5 @@
+results-loadingTest-vmVSsmall-500b/script.sh: line 11: /usr/bin/date: Too many open files in system
+results-loadingTest-vmVSsmall-500b/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500b/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500b/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500b/script.sh: cannot make pipe for command substitution: Too many open files in system

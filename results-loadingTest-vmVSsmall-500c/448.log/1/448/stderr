@@ -1,0 +1,2 @@
+results-loadingTest-vmVSsmall-500c/script.sh: line 11: /usr/bin/date: Too many open files in system
+curl: error while loading shared libraries: libgmp.so.10: cannot open shared object file: Error 23

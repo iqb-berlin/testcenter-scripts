@@ -1,0 +1,4 @@
+curl: error while loading shared libraries: libffi.so.7: cannot open shared object file: Error 23
+results-loadingTest-vmVSsmall-500b/script.sh: line 19: cannot create temp file for here-document: Too many open files in system
+results-loadingTest-vmVSsmall-500b/script.sh: cannot make pipe for command substitution: Too many open files in system
+results-loadingTest-vmVSsmall-500b/script.sh: cannot make pipe for command substitution: Too many open files in system

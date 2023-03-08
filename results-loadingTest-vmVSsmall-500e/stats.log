@@ -1,0 +1,204 @@
+Tue Mar  7 05:48:33 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.82%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.84MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:48:41 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.82%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.84MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:48:49 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.85%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.84MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:48:56 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.82%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.84MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:49:04 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.81%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.84MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:49:12 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.83%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.84MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:49:19 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.87%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.03%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:49:27 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.83%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:49:35 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.00%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.85%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.07%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:49:42 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.90%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:49:50 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.83%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.02%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:49:58 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.76%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:50:05 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.78%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:50:13 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.67%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:50:21 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.81%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:50:28 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.75%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:50:36 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.85%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:50:44 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     1.19%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:50:51 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.88%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:50:59 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.87%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:51:06 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.86%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:51:14 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.87%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:51:22 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.90%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:51:29 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.85%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.02%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:51:37 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.92%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:51:45 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.89%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.03%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:51:52 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.80%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:52:00 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.95%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:52:08 PM UTC 2023
+CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+411fee5517c2   testcenter-backend                0.01%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
+8127490dbd1a   testcenter-db                     0.88%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
+105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
+15d4f425209b   testcenter-traefik                0.00%     60.83MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
+309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11
+Tue Mar  7 05:52:15 PM UTC 2023

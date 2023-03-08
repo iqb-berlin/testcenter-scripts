@@ -1,0 +1,4 @@
+parallel: Warning: Only enough file handles to run 496 jobs in parallel.
+parallel: Warning: Running 'parallel -j0 -N 496 --pipe parallel -j0' or
+parallel: Warning: raising ulimit -n or /etc/security/limits.conf may help.
+Error in tempfile() using template /tmp/parXXXXX.par: Could not create temp file /tmp/parf5YhG.par: Too many open files in system at /usr/bin/parallel line 3889.
