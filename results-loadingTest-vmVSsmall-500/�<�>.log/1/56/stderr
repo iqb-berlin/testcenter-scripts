@@ -1,2 +1,0 @@
-curl: error while loading shared libraries: libpthread.so.0: cannot open shared object file: Error 23
-results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system

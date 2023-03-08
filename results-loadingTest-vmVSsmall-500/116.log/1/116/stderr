@@ -1,4 +1,0 @@
-curl: (6) getaddrinfo() thread failed to start
-
-jq: error while loading shared libraries: libm.so.6: cannot open shared object file: Error 23
-results-loadingTest-vmVSsmall-500/script.sh: line 34: /usr/bin/curl: Too many open files in system

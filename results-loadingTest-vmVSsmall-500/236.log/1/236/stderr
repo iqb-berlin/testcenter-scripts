@@ -1,6 +1,0 @@
-results-loadingTest-vmVSsmall-500/script.sh: line 18: /usr/bin/curl: Too many open files in system
-results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system
-results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system
-results-loadingTest-vmVSsmall-500/script.sh: cannot make pipe for command substitution: Too many open files in system
-FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
-results-loadingTest-vmVSsmall-500/script.sh: line 40: 79900 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESINFOLAENDER | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESINFOLAENDER/alias/ESINFOLAENDER"
