@@ -5,6 +5,7 @@ source ./loading_test/loading_test.env
 #ulimit -Su $ULIMIT
 #ulimit -Sn $ULIMIT
 ulimit -n `ulimit -Hn`
+ulimit -v unlimited
 
 SEQ=($(seq $RUNS))
 
