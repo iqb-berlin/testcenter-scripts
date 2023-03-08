@@ -15,9 +15,9 @@ if [[ $AUDIT_MODE == 'local' ]]; then
   watch -n"$REPORT_FREQUENCY" bash ./loading_test/mimic_docker_stats.sh &
 elif [[ $AUDIT_MODE == 'docker' ]]; then
   watch -n"$REPORT_FREQUENCY" bash ./loading_test/docker_stats.sh &
-  docker logs -f --tail 0 testcenter-backend >> "$WORKING_DIR/backend.log" &
-  docker logs -f --tail 0 testcenter-traefik >> "$WORKING_DIR/traefik.log" &
-  docker logs -f --tail 0 testcenter-db >> "$WORKING_DIR/db.log" &
+  docker logs -f --tail 0 testcenter-backend 2> "$WORKING_DIR/backend.log" &
+  docker logs -f --tail 0 testcenter-traefik 2> "$WORKING_DIR/traefik.log" &
+  docker logs -f --tail 0 testcenter-db 2> "$WORKING_DIR/db.log" &
 else
   echo "Unknown mode: $MODE"
   exit 1
