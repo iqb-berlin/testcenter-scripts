@@ -1,7 +1,0 @@
-Tue Mar  7 05:48:14 PM UTC 2023
-CONTAINER ID   NAME                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
-411fee5517c2   testcenter-backend                0.00%     115.8MiB / 3.832GiB   2.95%     293MB / 4.22GB    70.3MB / 220MB   12
-8127490dbd1a   testcenter-db                     0.84%     450.2MiB / 3.832GiB   11.47%    113MB / 95.3MB    2.43MB / 232MB   47
-105d169ae68e   testcenter-frontend               0.00%     3.418MiB / 3.832GiB   0.09%     325kB / 12.9MB    2.97MB / 4.1kB   3
-15d4f425209b   testcenter-traefik                0.00%     60.84MiB / 3.832GiB   1.55%     4.36GB / 4.38GB   94.4MB / 0B      11
-309cbadb12a8   testcenter-broadcasting-service   0.00%     37.78MiB / 3.832GiB   0.96%     2.18MB / 1.21MB   8.56MB / 0B      11

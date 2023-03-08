@@ -1,5 +1,0 @@
-curl: error while loading shared libraries: libssl.so.1.1: cannot open shared object file: Error 23
-results-loadingTest-vmVSsmall-500c/script.sh: line 19: /usr/bin/jq: Too many open files in system
-curl: error while loading shared libraries: libgmp.so.10: cannot open shared object file: Error 23
-results-loadingTest-vmVSsmall-500c/script.sh: line 37: /usr/bin/curl: Too many open files in system
-results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system

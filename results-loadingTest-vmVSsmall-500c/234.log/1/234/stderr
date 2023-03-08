@@ -1,4 +1,0 @@
-results-loadingTest-vmVSsmall-500c/script.sh: line 18: /usr/bin/curl: Too many open files in system
-results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system
-results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system
-results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system

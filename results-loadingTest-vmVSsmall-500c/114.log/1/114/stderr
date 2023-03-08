@@ -1,5 +1,0 @@
-curl: (6) getaddrinfo() thread failed to start
-
-results-loadingTest-vmVSsmall-500c/script.sh: line 19: cannot create temp file for here-document: Too many open files in system
-results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system
-results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system

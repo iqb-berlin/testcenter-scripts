@@ -1,4 +1,0 @@
-curl: (7) Couldn't connect to server
-jq: error while loading shared libraries: libjq.so.1: cannot open shared object file: Error 23
-results-loadingTest-vmVSsmall-500b/script.sh: cannot make pipe for command substitution: Too many open files in system
-results-loadingTest-vmVSsmall-500b/script.sh: cannot make pipe for command substitution: Too many open files in system

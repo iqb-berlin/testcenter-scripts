@@ -1,4 +1,0 @@
-parallel: Warning: Only enough file handles to run 496 jobs in parallel.
-parallel: Warning: Running 'parallel -j0 -N 496 --pipe parallel -j0' or
-parallel: Warning: raising ulimit -n or /etc/security/limits.conf may help.
-parallel: Error: Cannot write to `results-loadingTest-vmVSsmall-500b/234.log/1/234/seq'.

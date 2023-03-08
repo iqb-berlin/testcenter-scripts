@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./loading_test/loading_test.env
+# source ./loading_test/loading_test.env
 
 for d in "$WORKING_DIR"/*.log/*/*; do
 
@@ -13,7 +13,10 @@ for d in "$WORKING_DIR"/*.log/*/*; do
         cat "$d/seq" >> "$WORKING_DIR/error.log"
         echo ")" >> "$WORKING_DIR/error.log"
         cat "$d/stderr" >> "$WORKING_DIR/error.log"
-    fi;
+    fi
 done
 
-rm -R "$WORKING_DIR"/*.log
+for d in "$WORKING_DIR"/*.log/; do
+    rm -r $d
+done
+

@@ -1,1 +1,0 @@
-curl: error while loading shared libraries: libgmp.so.10: cannot open shared object file: Error 23

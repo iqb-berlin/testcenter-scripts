@@ -1,6 +1,0 @@
-results-loadingTest-vmVSsmall-500_ZZXX/script.sh: line 13: /usr/bin/date: Too many open files in system
-results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
-results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
-results-loadingTest-vmVSsmall-500_ZZXX/script.sh: cannot make pipe for command substitution: Too many open files in system
-curl: error while loading shared libraries: libp11-kit.so.0: cannot open shared object file: Error 23
-curl: (6) Could not resolve host: testcenter.iqb.hu-berlin.de

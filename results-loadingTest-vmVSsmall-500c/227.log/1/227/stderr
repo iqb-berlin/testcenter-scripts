@@ -1,9 +1,0 @@
-curl: (7) Couldn't connect to server
-results-loadingTest-vmVSsmall-500c/script.sh: line 19: cannot create temp file for here-document: Too many open files in system
-results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system
-results-loadingTest-vmVSsmall-500c/script.sh: cannot make pipe for command substitution: Too many open files in system
-FATAL: error reading `/proc/sys/crypto/fips_enabled' in libgcrypt: Too many open files in system
-results-loadingTest-vmVSsmall-500c/script.sh: line 40: 127349 Aborted                 curl -o /dev/null --location --silent --fail --show-error -w "CALL | $AUTH_TOKEN | unit | ESINFOLAENDER | %{http_code} | $(date +%s%N) \n" --header "AuthToken: ""$AUTH_TOKEN" --request GET "https://testcenter.iqb.hu-berlin.de/api/test/$TEST_NR/unit/ESINFOLAENDER/alias/ESINFOLAENDER"
-curl: error while loading shared libraries: libbrotlicommon.so.1: cannot open shared object file: Error 23
-results-loadingTest-vmVSsmall-500c/script.sh: line 47: /usr/bin/date: Too many open files in system
-curl: error while loading shared libraries: libcurl.so.4: cannot open shared object file: Error 23
