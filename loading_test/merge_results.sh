@@ -2,10 +2,22 @@
 
 source ./loading_test/loading_test.env
 
-[ -d "$WORKING_DIR/merged.log" ] && rm -R "$WORKING_DIR/merged.log"
-mkdir "$WORKING_DIR/merged.log"
+for d in "$WORKING_DIR"/*.log/*/*; do
 
-for f in "$WORKING_DIR"/*.log/*/*/stdout; do
-    grep "CALL" < "$f" >> "$WORKING_DIR/merged.log/calls.csv"
-    grep "FINAL" < "$f" >> "$WORKING_DIR/merged.log/times.csv"
+    if [ -f "$d/stderr" ]; then
+        grep "CALL" < "$d/stdout" >> "$WORKING_DIR/calls.csv"
+        grep "FINAL" < "$d/stdout" >> "$WORKING_DIR/times.csv"
+    fi
+
+    if [ -s "$d/stderr" ]; then
+        echo "" >> "$WORKING_DIR/error.log"
+        cat "$d/seq" >> "$WORKING_DIR/error.log"
+        echo ")" >> "$WORKING_DIR/error.log"
+        cat "$d/stderr" >> "$WORKING_DIR/error.log"
+    fi
 done
+
+for d in "$WORKING_DIR"/*.log/; do
+    rm -r $d
+done
+

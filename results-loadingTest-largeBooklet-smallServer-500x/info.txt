@@ -13,3 +13,4 @@ AUDIT_MODE=docker
 MODE=remote
 REPORT_FREQUENCY=5
 
+Duration total = 1295112933765

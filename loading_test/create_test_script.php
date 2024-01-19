@@ -55,6 +55,8 @@ try {
 # \USER_NAME = $E->TC_USER_NAME;
 # \PASSWORD = $E->TC_PASSWORD;
 
+ulimit -n `ulimit -Hn`
+
 START=$(date +%s%N)
 
 LOGIN_RESULT=$(
@@ -63,7 +65,9 @@ curl --location --silent --show-error \
 --data-raw '{"name":"$E->TC_USER_NAME","password":"$E->TC_PASSWORD"}'
 )
 
-AUTH_TOKEN=$(jq -r '.token' <<< "\$LOGIN_RESULT")
+REGEX='"token":"([a-zA-Z0-9.]+)"'
+[[ \$LOGIN_RESULT =~ \$REGEX ]]
+AUTH_TOKEN=\${BASH_REMATCH[1]}
 
 
 # the FE always runs a get session call after
