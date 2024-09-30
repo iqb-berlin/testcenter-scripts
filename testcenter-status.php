@@ -5,14 +5,16 @@
   <title>Testcenter Status</title>
   <style>
     * {
-      font-family: sans-serif
+      font-family: sans-serif;
+      font-size: large;
     }
     td {
       padding: 10px;
       border: 1px solid silver;
     }
-    a, a:visited {
+    a, a:visited, .tc_nice {
       color: black;
+      text-shadow: 1px 1px 10px #fff, 1px 1px 10px #ccc;
     }
   </style>
 </head>
@@ -87,10 +89,8 @@
             'https://iqb-testcenter2.de',
             'https://iqb-testcenter3.de',
             'https://iqb-testcenter4.de',
-            'https://iqb-testcenter4.de',
             'https://www.iqb-fragebogen.de',
-            'https://testcenter.iqb.hu-berlin.de',
-            'https://iqb-teststudio.de'
+            'https://testcenter.iqb.hu-berlin.de'
           ];
           foreach ($tcInstances as $url) {
             echo "";
@@ -100,7 +100,12 @@
               $version = $r->version;
               $versionParts = splitVersion($r->version);
               $color = colorVersion(...$versionParts);
-              echo "<tr class='ok' style='background: $color'><td><a href='$url'>$url</a></td><td>$title</td><td>$version</td></tr>";
+              $css = $r->appConfig->backgroundBody;
+              echo "<tr class='ok'>";
+              echo "<td style='background: $css'><a href='$url'>$url</a></td>";
+              echo "<td class='tc_nice' style='background: $css'>$title</td>";
+              echo "<td style='background: $color'>$version</td>";
+              echo "</tr>";
             } else {
               echo "<tr class='error'><td><a href='$url'>$url</a></td><td>Error ($r->code)</td><td>$r->error</td></tr>";
             }
