@@ -2,7 +2,12 @@
 
 run:
 	cd $(TC_BASE_DIR) &&\
-	docker compose --file docker/docker-compose.yml --file docker/docker-compose.dev.yml up $(service)
+	docker compose\
+			--env-file docker/.env.dev\
+			--file docker/docker-compose.yml\
+			--file docker/docker-compose.dev.yml\
+		up $(service)
+
 
 clean:
 	make down && \
