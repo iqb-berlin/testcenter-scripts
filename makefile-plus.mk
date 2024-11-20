@@ -3,9 +3,9 @@
 run:
 	cd $(TC_BASE_DIR) &&\
 	docker compose\
-			--env-file docker/.env.dev\
-			--file docker/docker-compose.yml\
-			--file docker/docker-compose.dev.yml\
+			--env-file .env.dev\
+			--file docker-compose.yml\
+			--file docker-compose.dev.yml\
 		up $(service)
 
 
