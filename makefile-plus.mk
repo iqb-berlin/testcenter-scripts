@@ -1,4 +1,5 @@
-.PHONY: run
+.PHONY: run clean
+TC_BASE_DIR := $(shell git rev-parse --show-toplevel)
 
 run:
 	cd $(TC_BASE_DIR) &&\
